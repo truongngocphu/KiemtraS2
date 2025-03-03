@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Predator\\Desktop\\sang t2\\KiemtraS2\\",
+  "WorkspaceRootPath": "D:\\GITHUB\\KiemtraS2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEC5274E-8CCE-4D57-A989-97EDB27C3037}|KiemtraS2\\KiemtraS2.csproj|c:\\users\\predator\\desktop\\sang t2\\kiemtras2\\kiemtras2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AEC5274E-8CCE-4D57-A989-97EDB27C3037}|KiemtraS2\\KiemtraS2.csproj|d:\\github\\kiemtras2\\kiemtras2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AEC5274E-8CCE-4D57-A989-97EDB27C3037}|KiemtraS2\\KiemtraS2.csproj|solutionrelative:kiemtras2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,15 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Predator\\Desktop\\sang t2\\KiemtraS2\\KiemtraS2\\Form1.cs",
+              "DocumentMoniker": "D:\\GITHUB\\KiemtraS2\\KiemtraS2\\Form1.cs",
               "RelativeDocumentMoniker": "KiemtraS2\\Form1.cs",
-              "ToolTip": "C:\\Users\\Predator\\Desktop\\sang t2\\KiemtraS2\\KiemtraS2\\Form1.cs [Design]",
+              "ToolTip": "D:\\GITHUB\\KiemtraS2\\KiemtraS2\\Form1.cs [Design]",
               "RelativeToolTip": "KiemtraS2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T13:32:10.14Z",
